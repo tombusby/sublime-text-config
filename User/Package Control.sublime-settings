@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Djaneiro",
+		"GitGutter",
+		"GoImports",
+		"GoSublime",
+		"Jekyll",
+		"JSHint",
+		"JSHint Gutter",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-pyflakes",
+		"Theme - Night",
+		"Theme - Soda"
+	]
+}

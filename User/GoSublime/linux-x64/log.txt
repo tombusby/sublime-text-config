@@ -1,0 +1,17 @@
+
+** 2017-04-05 21:43:40.459046 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-04-05 21:43:40.465366 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
